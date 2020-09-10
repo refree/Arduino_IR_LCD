@@ -14,7 +14,7 @@
 
 ## 3. Software Coding
 #### Library 다운
-> 스케치 실행 - 툴 - 라이브러리 관리 - `IRremote` 검색 & 다운
+> 스케치 실행 - 툴 - 라이브러리 관리 - `IRremote` 검색 & 다운<br>
 > 스케치 실행 - 툴 - 라이브러리 관리 - `LiquidCrystal_I2C` 검색 & 다운
 > 중간에 나와요~
 
