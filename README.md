@@ -1,4 +1,4 @@
-# Arduino_IR_LCD
+
 ##  1. IRremote + LCD
 - 적외선 리모콘과 LCD, LED를 활용해 간단한 모듈을 만들어 보겠습니다. 
 - [적외선 리모콘](https://refree.github.io/text/) 과 [LCD](https://refree.github.io/arduino_LCD/)를 참고해주세요~
@@ -82,4 +82,5 @@ if (irrecv.decode(&signals)) //수신을 받으면
 
 ```
 
-<!-- [![Video Label](http://img.youtube.com/vi/qxe3xkCqmlQ/0.jpg)](https://youtu.be/qxe3xkCqmlQ) -->
+[![Video Label](http://img.youtube.com/vi/vpD76siKSsA/0.jpg)](https://youtu.be/vpD76siKSsA)
+
